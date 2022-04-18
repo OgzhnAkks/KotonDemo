@@ -1,0 +1,33 @@
+[
+  {
+    "ProductId": 312412,
+    "Price": 119.99,
+    "Name": "Ekose Kazak",
+    "Stock": 10
+  },
+  {
+    "ProductId": 312438,
+    "Price": 120.99,
+    "Name": "Yeþil Bomber Ceket",
+    "Stock": 10
+  },
+  {
+    "ProductId": 582412,
+    "Price": 110.99,
+    "Name": "Blue jeans",
+    "Stock": 10
+  },
+  {
+    "ProductId": 745441,
+    "Price": 499.99,
+    "Name": "Erkek Deri Kaban",
+    "Stock": 10
+  },
+  {
+    "ProductId": 457445,
+    "Price": 199.99,
+    "Name": "Kýrmýzý Yaðmurluk",
+    "Stock": 10
+  }
+
+]

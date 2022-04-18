@@ -1,0 +1,83 @@
+  [
+    {
+      "ProductId": 312412,
+      "Quantity": 2,
+      "Customer": {
+        "Name": "Oðuzhan",
+        "FistName": "Akkuþ",
+        "Addresses": [
+          {
+            "StreetAddress": "Kadýköy Caferaða Mahallesi",
+            "City": "Ýstanbul",
+            "District": "Kadýköy",
+            "ZipCode": "340001"
+          },
+          {
+            "StreetAddress": "Kadýköy Koþuyolu Mahallesi",
+            "City": "Ýstanbul",
+            "District": "Kadýköy",
+            "ZipCode": "340002"
+          }
+        ]
+      },
+      "Biling": {
+        "Discounts": [
+          {
+            "Name": "Koton Yaz Ýndirimi",
+            "DiscountRate": 10
+          },
+          {
+            "Name": "Türk Telekom Kampanya Ýndirimi",
+            "DiscountRate": 15
+          }
+        ],
+        "Taxes": [
+          {
+            "Name": "KDV",
+            "TaxeRate": 18
+          }
+        ]
+      }
+    },
+    {
+      "ProductId": 312412,
+      "Quantity": 2,
+      "Customer": {
+        "Name": "Kemal1",
+        "FistName": "Akkuþ1",
+        "Addresses": [
+          {
+            "StreetAddress": "Kadýköy Acýbadem Mahallesi",
+            "City": "Ýstanbul",
+            "District": "Kadýköy",
+            "ZipCode": "340002"
+          },
+          {
+            "StreetAddress": "Kadýköy Koþuyolu Mahallesi",
+            "City": "Ýstanbul",
+            "District": "Kadýköy",
+            "ZipCode": "340003"
+          }
+        ]
+      },
+      "Biling": {
+        "Discounts": [
+          {
+            "Name": "Koton Bahar Ýndirimi",
+            "DiscountRate": 10
+          },
+          {
+            "Name": "Vodafone Kampanya Ýndirimi",
+            "DiscountRate": 5
+          }
+        ],
+        "Taxes": [
+          {
+            "Name": "KDV",
+            "TaxeRate": 18
+          }
+        ]
+      }
+    }
+  ]
+

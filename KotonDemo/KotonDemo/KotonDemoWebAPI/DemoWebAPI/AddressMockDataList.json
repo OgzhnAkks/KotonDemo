@@ -1,0 +1,31 @@
+[
+
+  {
+    "Customer": {
+      "CustomerId": 1
+    },
+    "StreetAddress": "Bulgurlu mahallesi",
+    "City": "Ýstanbul",
+    "District": "Üsküdar",
+    "ZipCode": "340014"
+  },
+  {
+    "Customer": {
+      "CustomerId": 1
+    },
+    "StreetAddress": "Balmumcu mahallesi",
+    "City": "Ýstanbul",
+    "District": "Beþiktaþ",
+    "ZipCode": "340015"
+  },
+  {
+    "Customer": {
+      "CustomerId": 4
+    },
+    "StreetAddress": "Zümrüt evler mahallesi",
+    "City": "Ýstanbul",
+    "District": "Maltepe",
+    "ZipCode": "340016"
+  }
+
+]

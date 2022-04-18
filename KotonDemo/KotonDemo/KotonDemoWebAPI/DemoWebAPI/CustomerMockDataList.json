@@ -1,0 +1,44 @@
+[
+  {
+    "Addresses": [
+      {
+        "StreetAddress": "Bulgurlu mah. Libadiye Caddesi",
+        "City": "Ýstanbul",
+        "District": "Ümraniye",
+        "ZipCode": "34001"
+      },
+      {
+        "StreetAddress": "Beþiktaþ gümüþsu",
+        "City": "Ýstanbul",
+        "District": "Ümraniye",
+        "ZipCode": "34001"
+      }
+    ],
+    "Name": "Oðuzhan",
+    "FirstName": "Akkuþ"
+  },
+  {
+    "Addresses": [
+      {
+        "StreetAddress": "Dikili taþ caddesi",
+        "City": "Ýstanbul",
+        "District": "Niþantaþý",
+        "ZipCode": "34001"
+      }
+    ],
+    "Name": "Robert Cecil",
+    "FirstName": "Martin"
+  },
+  {
+    "Addresses": [
+      {
+        "StreetAddress": "Kadýköy caferaða",
+        "City": "Ýstanbul",
+        "District": "Kadýköy",
+        "ZipCode": "34001"
+      }
+    ],
+    "Name": "Elon",
+    "FirstName": "Musk"
+  }
+]

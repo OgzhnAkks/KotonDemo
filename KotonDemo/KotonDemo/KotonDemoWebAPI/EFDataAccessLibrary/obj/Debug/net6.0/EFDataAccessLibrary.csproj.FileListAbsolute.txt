@@ -1,0 +1,12 @@
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\EFDataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\EFDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\EFDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\EFDataAccessLibrary.AssemblyInfo.cs
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\bin\Debug\net6.0\EFDataAccessLibrary.deps.json
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\bin\Debug\net6.0\EFDataAccessLibrary.dll
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\bin\Debug\net6.0\EFDataAccessLibrary.pdb
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\EFDataAccessLibrary.dll
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\refint\EFDataAccessLibrary.dll
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\EFDataAccessLibrary.pdb
+C:\Users\oguzhan.akkus\Desktop\KotonDemo\KotonDemoWebAPI\EFDataAccessLibrary\obj\Debug\net6.0\ref\EFDataAccessLibrary.dll
